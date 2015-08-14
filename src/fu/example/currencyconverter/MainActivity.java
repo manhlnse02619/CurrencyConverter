@@ -33,8 +33,6 @@ public class MainActivity extends Activity {
 	private TextView tvTo;
 	private EditText edFrom;
 
-
-
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
